@@ -9,3 +9,21 @@ In addition to the definitions and explanations of metrics, this book also provi
 
 Whether you are a business owner, data analyst, or simply someone interested in understanding the world around you, this book is an essential resource for anyone looking to gain a deeper understanding of metrics and how they can be used to drive success.
 
+-------
+
+A sample of dataset
+
+| Sl. No. | Metrics Name                 | Definition                                                                        | Preferred Direction |
+|---------|------------------------------|-----------------------------------------------------------------------------------|---------------------|
+| 1       | -1                           | -1                                                                                | N/A                 |
+| 2       | 10%                          | 10 percent                                                                        | N/A                 |
+| 3       | 99.46%                       | Accuracy for face detection task                                                  | Higher              |
+| 4       | 1-1                          | 1-1                                                                               | N/A                 |
+| 5       | 1/2                          | 1/2                                                                               | NA                  |
+| 6       | 1/4                          | The accuracy of a model on the 1/4 detection task                                 | Higher              |
+| 7       | (Recall@10+Recall@50)/2      | (Recall at rank 10 + Recall at rank   50)/2 for recommendation system evaluation. |                     |
+| 8       | (Recall@5+Recall_subset@1)/2 | The average of Recall@5 and Recall_subset@1                                       | Higher              |
+| 9       | {max}FÎ²                     | A metric used to measure the performance of a machine learning model .            | Higher              |
+| 10      | @cheek                       | @cheek                                                                            | -                   |
+| 11      | @forehead                    | A metric used to evaluate the performance of facial landmark detection   models   | Lower               |
+| 12      | @mouth                       | @mouth                                                                            | -                   |
